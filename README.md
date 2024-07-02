@@ -7,8 +7,7 @@
 - [Cómo contribuir](#cómo-contribuir)
 - [Ventajas para colaboradores](#ventajas-para-colaboradores)
 - [Autor/es](#autores-y-colaboradores-principales)
-- [Información adicional](#enlaces-de-interés)
-
+- 
 
 
 
@@ -37,11 +36,3 @@ Entre las ventajas de colaborar en este proyecto se encuentran:
 ## Autor/es y colaboradores principales
 Autor principal: [ICT-Ronco](https://github.com/ICT-Ronco/)
 
-## Enlaces de interés
-Utiliza estos enlaces para compartir el proyecto
-<br>
-🎥 Enlace a mi canal de Youtube: [Canal de Youtube](https://www.youtube.com/@roncoemedezeta)
-<br>
-🌐 Enlace al servidor de discord del proyecto: [Servidor de Discord](https://www.youtube.com/@roncoemedezeta)
-<br>
-<p align="center"><a href="https://www.writtenwalls.com">Visita el sitio web del proyecto</a></p>
